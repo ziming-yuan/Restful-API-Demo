@@ -1,2 +1,2 @@
 # Restful-API-Demo
-This is simple RESTful demo API using node.js, express.js, and mongoose.
+This is simple RESTful API using node.js, express.js, and mongoose.
